@@ -1,0 +1,3 @@
+Feature Matrix,Ward k,K-means k,Ward Silhouette,K-means Silhouette,Adjusted Rand Index
+Risk and Return,2,2,0.3394852890671403,0.3869500183909744,0.59755503175211
+Trading Activity,3,4,0.33516984897254953,0.3617128520357316,0.4186170619340652
