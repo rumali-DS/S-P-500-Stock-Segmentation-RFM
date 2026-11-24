@@ -1,0 +1,18 @@
+ticker,reasons
+APP,missing values / unequal history
+COIN,missing values / unequal history
+CEG,missing values / unequal history
+EXE,missing values / unequal history
+FDXF,no adjusted price data returned for study period
+FERG,zero-volume sessions (conservative completeness rule)
+GEHC,missing values / unequal history
+GEV,missing values / unequal history
+HONA,no adjusted price data returned for study period
+Q,no adjusted price data returned for study period
+RDDT,missing values / unequal history
+HOOD,missing values / unequal history
+SNDK,no adjusted price data returned for study period
+SW,zero-volume sessions (conservative completeness rule)
+SOLV,missing values / unequal history
+VLTO,missing values / unequal history
+VYLR,no adjusted price data returned for study period
